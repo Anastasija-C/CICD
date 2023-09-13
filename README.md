@@ -1,2 +1,2 @@
 # CICD
-DevOps 22/23 Homework assignments
+DevOps 22/23 Project
